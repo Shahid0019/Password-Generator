@@ -1,0 +1,64 @@
+body {
+    margin: 40px 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.container{
+    border-radius: 5px;
+    background:#1F2937;
+    margin:0px 52px;
+    width:550px;
+    height: 550px;
+}
+.header{
+    font-family: 'Karla', sans-serif;
+    color: #FFFFFF;
+    display: block;
+    align-items: start;
+    padding: 5px 50px 0px 40px;
+    font-size: 25px;
+}
+span{
+    display: block;
+    color:#4ADF86;
+}
+#discript{
+    color: #FFFFFF;
+    margin:0px;
+ font-style: leading-7/font-normal
+}
+#generate-btn {
+    padding: 52px 0px 0px 52px;
+}
+button{
+    margin-bottom: 24px;
+    color:#FFFFFF;
+    padding:6px 12px 6px 12px;
+    background :#4ADF86;
+    border:none;
+    border-radius: 4px;
+}
+#password-el{
+    padding:8px 0px ;
+    margin-top :35px ;
+    margin-left: 55px;
+    width :200px;
+    height:20px;
+    border-radius:6pxni;
+    background:#273549;
+    text-align: center ;
+    font-size: 14px;
+    font-weight:bold;
+    color:#4ADF86;
+}
+hr{
+margin-right : 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid #273549;
+}
+button:hover{
+    cursor:  pointer;
+}
